@@ -1,0 +1,2 @@
+regsvr32 DAO350.DLL
+regsvr32 MSJET35.DLL
