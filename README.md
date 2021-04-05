@@ -7,7 +7,7 @@ A Elgin i9 é uma impressora de recibo voltada para impressão de documentos nã
 
 ### Por onde começar?
 =================  
-Baixe o pacote de comunicação da E1 [aqui](https://github.com/ElginDeveloperCommunity/ElginI9/tree/master/Biblioteca%20de%20comunica%C3%A7%C3%A3o). Através desse pacote, você pode se comunicar com a impressora tanto por biblioteca (.dll/.so) quanto por serviços (API) usando funções de alto nivel!
+Baixe o pacote de comunicação da E1 [aqui](https://github.com/ElginDeveloperCommunity/Impressoras/tree/master/Impressoras%20N%C3%A3o%20Fiscais/i9/Bibliotecas). Através desse pacote, você pode se comunicar com a impressora tanto por biblioteca (.dll/.so) quanto por serviços (API) usando funções de alto nivel!
 
 Todas as funcionalidades do pacote e os demais exemplos estão disponíveis nos links abaixo: 
 
