@@ -13,7 +13,7 @@ Todas as funcionalidades do pacote e os demais exemplos estão disponíveis nos 
 
 ### Documentação
 =================  
-[Documentação](http://plataforma-e1.leonwebhost.com/group___m1.html)
+[Documentação](https://elgindevelopercommunity.github.io/group___m1.html)
 
 ### Exemplos
 =================  
