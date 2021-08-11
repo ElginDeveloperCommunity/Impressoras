@@ -1,6 +1,6 @@
 # Impressoras
 
-Repositório para impressoras térmicas de recibo Elgin e Bematech.
+Repositório para impressoras térmicas não fiscais Elgin e Bematech.
 
 ## Sobre a Elgin I9:
 A Elgin i9 é uma impressora de recibo voltada para impressão de documentos não fiscais, tais como DANFE NFCe, Extrato CFe entre outros.
