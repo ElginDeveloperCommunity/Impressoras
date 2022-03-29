@@ -1,7 +1,7 @@
-# Elgin I9
+# Elgin I8
 
 
-A Elgin i9 é uma impressora de recibo voltada para impressão de documentos não fiscais, tais como DANFE NFCe, Extrato CFe entre outros.
+A Elgin i8 é uma impressora de recibo voltada para impressão de documentos não fiscais, tais como DANFE NFCe, Extrato CFe entre outros.
 
 
 Por onde começar?
