@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpressoraEtiquetas", "ImpressoraEtiquetas\ImpressoraEtiquetas.csproj", "{0497AED7-B0C3-4348-953F-596616C4E19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Debug|x86.ActiveCfg = Debug|x86
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Debug|x86.Build.0 = Debug|x86
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Release|x86.ActiveCfg = Release|x86
+		{0497AED7-B0C3-4348-953F-596616C4E19C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D883893-3D1E-4F39-BA7B-08308147D43D}
+	EndGlobalSection
+EndGlobal
