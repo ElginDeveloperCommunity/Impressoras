@@ -1,0 +1,30 @@
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\bin\x86\Debug\ImpressoraEtiquetas.exe.config
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\bin\x86\Debug\ImpressoraEtiquetas.exe
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\bin\x86\Debug\ImpressoraEtiquetas.pdb
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.csprojAssemblyReference.cache
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\App.g.cs
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas_MarkupCompile.cache
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas_MarkupCompile.lref
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\MainWindow.baml
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.g.resources
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.Properties.Resources.resources
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.csproj.GenerateResource.cache
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.exe
+C:\Users\gabriel.franzeri\source\repos\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.pdb
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\bin\x86\Debug\ImpressoraEtiquetas.exe.config
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\bin\x86\Debug\ImpressoraEtiquetas.exe
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\bin\x86\Debug\ImpressoraEtiquetas.pdb
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.csprojAssemblyReference.cache
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\App.g.cs
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas_MarkupCompile.cache
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas_MarkupCompile.lref
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\MainWindow.baml
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.g.resources
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.Properties.Resources.resources
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.csproj.GenerateResource.cache
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.exe
+C:\Users\gabriel.franzeri\Documents\GitHub\Impressoras\Impressoras de Etiqueta\Elgin\L42PRO\Exemplo\ImpressoraEtiquetas\ImpressoraEtiquetas\obj\x86\Debug\ImpressoraEtiquetas.pdb
