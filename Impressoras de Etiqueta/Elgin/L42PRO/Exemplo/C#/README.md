@@ -1,4 +1,4 @@
-# Exemplo C# TEF API #
+# Exemplo C# L42PRO #
 
 Exemplo escrito com as seguintes configurações: 
 - Processador x86
