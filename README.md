@@ -15,6 +15,12 @@ Todas as funcionalidades do pacote e os demais exemplos estão disponíveis nos 
 =================  
 [Documentação](https://elgindevelopercommunity.github.io/group___m1.html)
 
+### FAQ
+=================  
+[Artigos](https://github.com/ElginDeveloperCommunity/Impressoras/wiki)
+[Dicas para Uso de Impressoras](https://github.com/ElginDeveloperCommunity/Impressoras/wiki/Dicas-para-uso-da-fam%C3%ADlia-de-impressoras-Elgin-(i7-plus,-i8,-i9-e-MP%E2%80%904200))
+
+
 ### Exemplos
 =================  
 - [Java](https://github.com/ElginDeveloperCommunity/Impressoras/tree/master/Impressoras%20N%C3%A3o%20Fiscais/Elgin/i9/Exemplos/ExemploI9_java)
