@@ -1,0 +1,287 @@
+*PPD-Adobe: "4.3"
+*% PPD file for BEMATECH MP-2500TH Receipt Printer with CUPS.
+*% Created by the CUPS PPD Compiler v1.0.
+*FormatVersion: "4.3"
+*FileVersion: "1.0"
+*LanguageVersion: English
+*LanguageEncoding: ISOLatin1
+*PCFileName: "MP-2500TH.PPD"
+*Product: "(MP-2500TH)"
+*Manufacturer: "BEMATECH"
+*ModelName: "BEMATECH MP-2500TH"
+*ShortNickName: "BEMATECH MP-2500TH"
+*NickName: "BEMATECH MP-2500TH"
+*PSVersion: "(3010.000) 550"
+*PSVersion: "(3010.000) 651"
+*PSVersion: "(3010.000) 652"
+*PSVersion: "(3010.000) 653"
+*PSVersion: "(3010.000) 704"
+*PSVersion: "(3010.000) 705"
+*PSVersion: "(3010.000) 800"
+*LanguageLevel: "3"
+*ColorDevice: False
+*DefaultColorSpace: Gray
+*FileSystem: False
+*Throughput: "1"
+*LandscapeOrientation: Plus90
+*1284DeviceID: "Vendor:0B1B;ProdID:0004;MFG:BEMATECH ;MDL:MP-2500TH;"
+*TTRasterizer: Type42
+*% Driver-defined attributes...
+*% CUPS attributes...
+*cupsVersion: 1.1
+*cupsModelNumber: "0"
+*cupsManualCopies: False
+*cupsFilter: "application/vnd.cups-raster 100 rastertobema"
+*OpenUI *PageSize: PickOne
+*OrderDependency: 10 AnySetup *PageSize
+*DefaultPageSize: 80x297mm
+*PageSize 80x297mm/80x297mm: "<</PageSize[215 842]/ImagingBBox null>>setpagedevice"
+*PageSize 80x3275mm/80x3275mm: "<</PageSize[215 4640]/ImagingBBox null>>setpagedevice"
+*PageSize 82.5x297mm/82.5x297mm: "<</PageSize[226 842]/ImagingBBox null>>setpagedevice"
+*PageSize 76x297mm/76x297mm: "<</PageSize[204 842]/ImagingBBox null>>setpagedevice"
+*PageSize 58x297mm/58x297mm: "<</PageSize[136 842]/ImagingBBox null>>setpagedevice"
+*PageSize Letter/Letter - 8.5x11in: "<</PageSize[612 792]/ImagingBBox null>>setpagedevice"
+*PageSize A4/A4 - 210x297mm: "<</PageSize[595 842]/ImagingBBox null>>setpagedevice"
+*PageSize A3/A3 - 297x420mm: "<</PageSize[842 1191]/ImagingBBox null>>setpagedevice"
+*CloseUI: *PageSize
+*OpenUI *PageRegion: PickOne
+*OrderDependency: 10 AnySetup *PageRegion
+*DefaultPageRegion: 80x297mm
+*PageRegion 80x297mm/80x297mm: "<</PageSize[215 842]/ImagingBBox null>>setpagedevice"
+*PageRegion 80x3275mm/80x3275mm: "<</PageSize[215 4640]/ImagingBBox null>>setpagedevice"
+*PageRegion 82.5x297mm/82.5x297mm: "<</PageSize[226 842]/ImagingBBox null>>setpagedevice"
+*PageRegion 76x297mm/76x297mm: "<</PageSize[204 842]/ImagingBBox null>>setpagedevice"
+*PageRegion 58x297mm/58x297mm: "<</PageSize[136 842]/ImagingBBox null>>setpagedevice"
+*PageRegion Letter/Letter - 8.5x11in: "<</PageSize[612 792]/ImagingBBox null>>setpagedevice"
+*PageRegion A4/A4 - 210x297mm: "<</PageSize[595 842]/ImagingBBox null>>setpagedevice"
+*PageRegion A3/A3 - 297x420mm: "<</PageSize[842 1191]/ImagingBBox null>>setpagedevice"
+*CloseUI: *PageRegion
+*DefaultImageableArea: 80x297mm
+*ImageableArea 80x297mm/80x297mm: "0.00 0.00 215.00 842.00"
+*ImageableArea 80x3275mm/80x3275mm: "0.00 0.00 215.00 4640.00"
+*ImageableArea 82.5x297mm/82.5x297mm: "0.00 0.00 226.00 842.00"
+*ImageableArea 76x297mm/76x297mm: "0.00 0.00 204.00 842.00"
+*ImageableArea 58x297mm/58x297mm: "0.00 0.00 136.00 842.00"
+*ImageableArea Letter/Letter - 8.5x11in: "0.00 0.00 612.00 792.00"
+*ImageableArea A4/A4 - 210x297mm: "0.00 0.00 595.00 842.00"
+*ImageableArea A3/A3 - 297x420mm: "0.00 0.00 842.00 1191.00"
+*DefaultPaperDimension: 80x297mm
+*PaperDimension 80x297mm/80x297mm: "215.00 842.00"
+*PaperDimension 80x3275mm/80x3275mm: "215.00 4640.00"
+*PaperDimension 82.5x297mm/82.5x297mm: "226.00 842.00"
+*PaperDimension 76x297mm/76x297mm: "204.00 842.00"
+*PaperDimension 58x297mm/58x297mm: "136.00 842.00"
+*PaperDimension Letter/Letter - 8.5x11in: "612.00 792.00"
+*PaperDimension A4/A4 - 210x297mm: "595.00 842.00"
+*PaperDimension A3/A3 - 297x420mm: "842.00 1191.00"
+*MaxMediaWidth: "238.00"
+*MaxMediaHeight: "9283.00"
+*HWMargins: 0.00 0.00 0.00 0.00
+*CustomPageSize True: "pop pop pop <</PageSize[5 -2 roll]/ImagingBBox null>>setpagedevice"
+*ParamCustomPageSize Width: 1 points 72.00 238.00
+*ParamCustomPageSize Height: 2 points 288.00 9283.00
+*ParamCustomPageSize WidthOffset: 3 points 0 0
+*ParamCustomPageSize HeightOffset: 4 points 0 0
+*ParamCustomPageSize Orientation: 5 int 0 0
+*RequiresPageRegion All: True
+*OpenUI *ColorModel/Color Mode: PickOne
+*OrderDependency: 10.0 AnySetup *ColorModel
+*DefaultColorModel: Gray
+*ColorModel Gray/Grayscale: "<</cupsColorSpace 3/cupsColorOrder 0/cupsCompression 0>>setpagedevice"
+*CloseUI: *ColorModel
+*OpenUI *Resolution: PickOne
+*OrderDependency: 10.0 AnySetup *Resolution
+*DefaultResolution: 203x203dpi
+*Resolution 101x101dpi/101x101 DPI: "<</HWResolution[101 101]/cupsBitsPerColor 1/cupsRowCount 0/cupsRowFeed 0/cupsRowStep 0>>setpagedevice"
+*Resolution 101x203dpi/101x203 DPI: "<</HWResolution[101 203]/cupsBitsPerColor 1/cupsRowCount 0/cupsRowFeed 0/cupsRowStep 0>>setpagedevice"
+*Resolution 203x101dpi/203x101 DPI: "<</HWResolution[203 101]/cupsBitsPerColor 1/cupsRowCount 0/cupsRowFeed 0/cupsRowStep 0>>setpagedevice"
+*Resolution 203x203dpi/203x203 DPI: "<</HWResolution[203 203]/cupsBitsPerColor 1/cupsRowCount 0/cupsRowFeed 0/cupsRowStep 0>>setpagedevice"
+*CloseUI: *Resolution
+*OpenUI *MediaType: PickOne
+*OrderDependency: 10.0 AnySetup *MediaType
+*DefaultMediaType: Auto
+*MediaType Auto/Automatic Selection: "<</MediaType(Auto)/cupsMediaType 0>>setpagedevice"
+*MediaType Partialcut/Partial Cut: "<</MediaType(Manual)/cupsMediaType 1>>setpagedevice"
+*MediaType Fullcut/Full Cut: "<</MediaType(Upper)/cupsMediaType 2>>setpagedevice"
+*MediaType Tearbar/Tear bar Cut: "<</MediaType(Lower)/cupsMediaType 3>>setpagedevice"
+*CloseUI: *MediaType
+
+*OpenGroup: MP2500THPrintingArea/MP-2500TH Printing Area Selection Options
+*OpenUI *PrintArea/Printing Area Selection: PickOne
+*DefaultPrintArea: 0Left
+*PrintArea 0Left/Left Position: ""
+*PrintArea 1Center/Center Position: ""
+*PrintArea 2Right/Right Position: ""
+*CloseUI: *PrintArea
+*CloseGroup: MP2500THPrintingArea
+
+*OpenGroup: MP2500THStartDoc/MP-2500TH Start Document Options
+*OpenUI *StartCD/1. Cash Drawer: PickOne
+*DefaultStartCD: 0OpenDrawersDisabled
+*StartCD 0OpenDrawersDisabled/Open Drawers Disabled: ""
+*StartCD 1OpenDrawer1Enabled/Open Drawer 1 Enabled: ""
+*StartCD 2OpenDrawer2Enabled/Open Drawer 2 Enabled: ""
+*StartCD 3OpenDrawerAllEnabled/Open Drawers All Enabled: ""
+*CloseUI: *StartCD
+
+*OpenUI *StartCDPulse/2. Cash Drawer Pulse Width: PickOne
+*DefaultStartCDPulse: 3Millis200
+*StartCDPulse 0Millis50/50 milliseconds: ""
+*StartCDPulse 1Millis100/100 milliseconds: ""
+*StartCDPulse 2Millis150/150 milliseconds: ""
+*StartCDPulse 3Millis200/200 milliseconds: ""
+*CloseUI: *StartCDPulse
+*CloseGroup: MP2500THStartDoc
+
+
+*OpenGroup: MP2500THEndDoc/MP-2500TH End Document Options
+*OpenUI *EndCD/1. Cash Drawer: PickOne
+*DefaultEndCD: 0OpenDrawersDisabled
+*EndCD 0OpenDrawersDisabled/Open Drawers Disabled: ""
+*EndCD 1OpenDrawer1Enabled/Open Drawer 1 Enabled: ""
+*EndCD 2OpenDrawer2Enabled/Open Drawer 2 Enabled: ""
+*EndCD 3OpenDrawerAllEnabled/Open Drawers All Enabled: ""
+*CloseUI: *EndCD
+
+*OpenUI *EndCDPulse/2. Cash Drawer Pulse Width: PickOne
+*DefaultEndCDPulse: 3Millis200
+*EndCDPulse 0Millis50/50 milliseconds: ""
+*EndCDPulse 1Millis100/100 milliseconds: ""
+*EndCDPulse 2Millis150/150 milliseconds: ""
+*EndCDPulse 3Millis200/200 milliseconds: ""
+*CloseUI: *EndCDPulse
+*CloseGroup: MP2500THEndDoc
+
+*OpenGroup: StartNVLogoGroup/Start Document Logo Options
+*OrderDependency: AnySetup *StartNVLogoGroup
+*OpenUI *StartLogoPrint/1. Logo Printing : PickOne
+*OrderDependency: AnySetup *StartLogoPrint
+*DefaultStartLogoPrint: 0StartNoLogo
+*StartLogoPrint 0StartNoLogo/No : ""
+*StartLogoPrint 1StartYesLogo/Yes : ""
+*CloseUI: *StartLogoPrint
+*OpenUI *StartLogoAlignment/2. Alignment : PickOne
+*OrderDependency: AnySetup *StartLogoAlignment
+*DefaultStartLogoAlignment: 1StartCenter
+*StartLogoAlignment 0StartLeft/Left : ""
+*StartLogoAlignment 1StartCenter/Center : ""
+*StartLogoAlignment 2StartRight/Right : ""
+*CloseUI: *StartLogoAlignment
+*OpenUI *StartNVLogoNumer/3. NVLogo Number: PickOne
+*OrderDependency: AnySetup *StartNVLogoNumer
+*DefaultStartNVLogoNumer: 0StartFirst
+*StartNVLogoNumer 0StartFirst/First Logo : ""
+*StartNVLogoNumer 1StartSecond/Second Logo : ""
+*StartNVLogoNumer 2StartThird/Third Logo : ""
+*StartNVLogoNumer 3StartFourth/Fourth Logo : ""
+*CloseUI: *StartNVLogoNumer
+*OpenUI *StartNVLogoSize/4. NV Logo Size : PickOne
+*OrderDependency: AnySetup *StartNVLogoSize
+*DefaultStartNVLogoSize: 0StartNormal
+*StartNVLogoSize 0StartNormal/Normal : ""
+*StartNVLogoSize 1StartDoubleWidth/Double Width : ""
+*StartNVLogoSize 2StartDoubleHeight/Double Height : ""
+*StartNVLogoSize 3StartQuadruple/Quadruple : ""
+*CloseUI: *StartNVLogoSize
+*OpenUI *StartLineFeed/5. LineFeed : PickOne
+*OrderDependency: AnySetup *StartLineFeed
+*DefaultStartLineFeed: 1StartOneLine
+*StartLineFeed 0StartNoFeed/No Line Feed  : ""
+*StartLineFeed 1StartOneLine/1 Line Feed : ""
+*StartLineFeed 2StartTwoLine/2 Line Feed : ""
+*StartLineFeed 3StartThreeLine/3 Line Feed : ""
+*StartLineFeed 4StartFourLine/4 Line Feed : ""
+*StartLineFeed 5StartFiveLine/5 Line Feed : ""
+*StartLineFeed 6StartSixLine/6 Line Feed : ""
+*StartLineFeed 7StartSevenLine/7 Line Feed : ""
+*StartLineFeed 8StartEightLine/8 Line Feed : ""
+*StartLineFeed 9StartNineLine/9 Line Feed : ""
+*StartLineFeed 10StartTenLine/10 Line Feed : ""
+*CloseUI: *StartLineFeed
+*CloseGroup: StartNVLogoGroup
+
+*OpenGroup: EndNVLogoGroup/End Document Logo Options
+*OrderDependency: AnySetup *EndNVLogoGroup
+*OpenUI *EndLogoPrint/1. Logo Printing : PickOne
+*OrderDependency: AnySetup *EndLogoPrint
+*DefaultEndLogoPrint: 0EndNoLogo
+*EndLogoPrint 0EndNoLogo/No : ""
+*EndLogoPrint 1EndYesLogo/Yes : ""
+*CloseUI: *EndLogoPrint
+*OpenUI *EndLogoAlignment/2. Alignment : PickOne
+*OrderDependency: AnySetup *EndLogoAlignment
+*DefaultEndLogoAlignment: 1EndCenter
+*EndLogoAlignment 0EndLeft/Left : ""
+*EndLogoAlignment 1EndCenter/Center : ""
+*EndLogoAlignment 2EndRight/Right : ""
+*CloseUI: *EndLogoAlignment
+*OpenUI *EndNVLogoNumer/3. NVLogo Number: PickOne
+*OrderDependency: AnySetup *EndNVLogoNumer
+*DefaultEndNVLogoNumer: 0EndFirst
+*EndNVLogoNumer 0EndFirst/First Logo : ""
+*EndNVLogoNumer 1EndSecond/Second Logo : ""
+*EndNVLogoNumer 2EndThird/Third Logo : ""
+*EndNVLogoNumer 3EndFourth/Fourth Logo : ""
+*CloseUI: *EndNVLogoNumer
+*OpenUI *EndNVLogoSize/4. NV Logo Size : PickOne
+*OrderDependency: AnySetup *EndNVLogoSize
+*DefaultEndNVLogoSize: 0EndNormal
+*EndNVLogoSize 0EndNormal/Normal : ""
+*EndNVLogoSize 1EndDoubleWidth/Double Width : ""
+*EndNVLogoSize 2ENdDoubleHeight/Double Height : ""
+*EndNVLogoSize 3EndQuadruple/Quadruple : ""
+*CloseUI: *EndNVLogoSize
+*OpenUI *EndLineFeed/5. LineFeed : PickOne
+*OrderDependency: AnySetup *EndLineFeed
+*DefaultEndLineFeed: 1EndOneLine
+*EndLineFeed 0EndNoFeed/No Line Feed  : ""
+*EndLineFeed 1EndOneLine/1 Line Feed : ""
+*EndLineFeed 2EndTwoLine/2 Line Feed : ""
+*EndLineFeed 3EndThreeLine/3 Line Feed : ""
+*EndLineFeed 4EndFourLine/4 Line Feed : ""
+*EndLineFeed 5EndFiveLine/5 Line Feed : ""
+*EndLineFeed 6EndSixLine/6 Line Feed : ""
+*EndLineFeed 7EndSevenLine/7 Line Feed : ""
+*EndLineFeed 8EndEightLine/8 Line Feed : ""
+*EndLineFeed 9EndNineLine/9 Line Feed : ""
+*EndLineFeed 10EndTenLine/10 Line Feed : ""
+*CloseUI: *EndLineFeed
+*CloseGroup: EndNVLogoGroup
+
+*DefaultFont: Courier
+*Font AvantGarde-Book: Standard "(001.006S)" Standard ROM
+*Font AvantGarde-BookOblique: Standard "(001.006S)" Standard ROM
+*Font AvantGarde-Demi: Standard "(001.007S)" Standard ROM
+*Font AvantGarde-DemiOblique: Standard "(001.007S)" Standard ROM
+*Font Bookman-Demi: Standard "(001.004S)" Standard ROM
+*Font Bookman-DemiItalic: Standard "(001.004S)" Standard ROM
+*Font Bookman-Light: Standard "(001.004S)" Standard ROM
+*Font Bookman-LightItalic: Standard "(001.004S)" Standard ROM
+*Font Courier: Standard "(002.004S)" Standard ROM
+*Font Courier-Bold: Standard "(002.004S)" Standard ROM
+*Font Courier-BoldOblique: Standard "(002.004S)" Standard ROM
+*Font Courier-Oblique: Standard "(002.004S)" Standard ROM
+*Font Helvetica: Standard "(001.006S)" Standard ROM
+*Font Helvetica-Bold: Standard "(001.007S)" Standard ROM
+*Font Helvetica-BoldOblique: Standard "(001.007S)" Standard ROM
+*Font Helvetica-Narrow: Standard "(001.006S)" Standard ROM
+*Font Helvetica-Narrow-Bold: Standard "(001.007S)" Standard ROM
+*Font Helvetica-Narrow-BoldOblique: Standard "(001.007S)" Standard ROM
+*Font Helvetica-Narrow-Oblique: Standard "(001.006S)" Standard ROM
+*Font Helvetica-Oblique: Standard "(001.006S)" Standard ROM
+*Font NewCenturySchlbk-Bold: Standard "(001.009S)" Standard ROM
+*Font NewCenturySchlbk-BoldItalic: Standard "(001.007S)" Standard ROM
+*Font NewCenturySchlbk-Italic: Standard "(001.006S)" Standard ROM
+*Font NewCenturySchlbk-Roman: Standard "(001.007S)" Standard ROM
+*Font Palatino-Bold: Standard "(001.005S)" Standard ROM
+*Font Palatino-BoldItalic: Standard "(001.005S)" Standard ROM
+*Font Palatino-Italic: Standard "(001.005S)" Standard ROM
+*Font Palatino-Roman: Standard "(001.005S)" Standard ROM
+*Font Symbol: Special "(001.007S)" Special ROM
+*Font Times-Bold: Standard "(001.007S)" Standard ROM
+*Font Times-BoldItalic: Standard "(001.009S)" Standard ROM
+*Font Times-Italic: Standard "(001.007S)" Standard ROM
+*Font Times-Roman: Standard "(001.007S)" Standard ROM
+*Font ZapfChancery-MediumItalic: Standard "(001.007S)" Standard ROM
+*Font ZapfDingbats: Special "(001.004S)" Standard ROM
+*% End of MP-2500TH.PPD, 07784 bytes.

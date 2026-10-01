@@ -1,0 +1,22 @@
+#!/bin/sh
+
+echo "BEMATECH"
+echo "BEMATECH CUPS Driver 1.0.0 Removing Start"
+echo "---------------------------------------"
+echo ""
+
+if [ -e /usr/lib/cups/filter/rastertobema ]
+then 
+	echo "Removing rastertobema"
+	rm -f /usr/lib/cups/filter/rastertobema
+fi
+
+if [ -d /usr/share/cups/model/BEMATECH ]
+then
+	echo "Removing dir .../cups/model/BEMATECH"
+	rm -rf /usr/share/cups/model/BEMATECH
+fi
+
+echo "Removing Complete!!!"
+echo ""
+
